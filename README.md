@@ -13,6 +13,7 @@ My web page.
 - [LESS] (http://lesscss.org/)
 - [Karma] (http://karma-runner.github.io/)
 - [Yeoman] (http://yeoman.io/)
+- [Yeoman AngularJS + Express Full Stack Generator] (https://github.com/DaftMonk/generator-angular-fullstack)
 - [Grunt] (http://gruntjs.com/)
 - [Bower] (http://bower.io/)
 
