@@ -1,19 +1,37 @@
-timurs.io
-=========
-This project uses:
--Node.js
--Express
--MongoDB
--Mongoose
--Angular JS
--Twitter Bootstrap
--LESS
--Karma
--Grunt
--Bower
+# [timurs.io](http://tsadykhov.github.com/timurs.io)
 
-To install:
-1. Clone repository locally
-2. Run npm install
-3. Run bower install
-4. Run grunt server to make sure things are running correctly
+My web page.
+=========
+## Project Components
+
+- [Node.js] (http://nodejs.org/)
+- [Express] (http://expressjs.com/)
+- [MongoDB] (http://www.mongodb.org/)
+- [Mongoose] (http://mongoosejs.com/)
+- [Angular JS] (http://angularjs.org/)
+- [Twitter Bootstrap] (http://getbootstrap.com/)
+- [LESS] (http://lesscss.org/)
+- [Karma] (http://karma-runner.github.io/)
+- [Yeoman] (http://yeoman.io/)
+- [Grunt] (http://gruntjs.com/)
+- [Bower] (http://bower.io/)
+
+## Quick Start
+
+
+1.Clone repository locally
+```
+git clone
+```
+2.Install npm dependencies
+```
+npm install
+```
+3.Install bower dependencies
+```
+npm install
+```
+4.Start the server with grunt to make sure things are running correctly
+```
+grunt server
+```
